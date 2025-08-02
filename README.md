@@ -17,9 +17,6 @@ This is a simple Arduino project that toggles an LED on and off with each press 
 - Breadboard
 - Proteus 8.0 or newer
 
-## 🔌 Schematic (Proteus)
-
-![schematic](screenshot.png) <!-- صورة من السيميوليشن لو حبيت تحط -->
 
 ## 🧾 Code (.ino)
 
